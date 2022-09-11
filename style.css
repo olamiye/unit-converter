@@ -2,7 +2,7 @@ body{
     margin: 0;
 }
 
-header{
+.header{
     background-color: #6943FF;
     height: 285px;
     color:#FFFFFF;
@@ -13,4 +13,14 @@ header{
     text-align: center;
     letter-spacing: -0.03em;
     padding-top: 33px;
+}
+
+input{
+    border: 2px solid #B295FF;
+    background-color: #B295FF;
+    box-sizing: border-box;
+    height: 83px;
+    width:117px ;
+    font-size: 2em;
+
 }
