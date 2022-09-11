@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #6943FF;
+    height: 285px;
+    color:#FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    padding-top: 33px;
+}
